@@ -7,3 +7,5 @@
  其他传值
    在main.js : Vue.prototype.$center = new Vue();
    在其他组件通过$.emit 设置 ， 通过$.on 接收。 
+   qh
+  
